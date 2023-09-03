@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-// TextOverlay.js
 import { useState, } from 'react';
 import Draggable from 'react-draggable';
 import { Resizable } from 're-resizable';

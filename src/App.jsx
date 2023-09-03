@@ -1,4 +1,3 @@
-// App.js
 import  { useState } from 'react';
 import './App.css';
 import ImageDisplay from './ImageDisplay';
